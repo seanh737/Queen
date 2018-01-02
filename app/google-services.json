@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "859276723515",
+    "firebase_url": "https://sean-74298.firebaseio.com",
+    "project_id": "sean-74298",
+    "storage_bucket": "sean-74298.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859276723515:android:72f2baafdd9dc3e7",
+        "android_client_info": {
+          "package_name": "com.sean.queen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859276723515-nv42ogp4mmcjurbrr3a723400l01jclh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sean.queen",
+            "certificate_hash": "5f0313e1d6c8f42c86b021fa2de4ba76c28a57bc"
+          }
+        },
+        {
+          "client_id": "859276723515-4ugsmof9erop3df6q0e51pr106u6q1ag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr46tot50Q_6QdWHFExqD9704AmswzNps"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859276723515-4ugsmof9erop3df6q0e51pr106u6q1ag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
